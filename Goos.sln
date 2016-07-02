@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goos.Logic", "Source\Goos.Logic\Goos.Logic.csproj", "{CC062DB7-0329-4C90-8331-09CF332853D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goos.UI", "Source\Goos.UI\Goos.UI.csproj", "{C2139885-7071-441B-89A7-0EE0AD31DD96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goos.Tests", "Source\Goos.Tests\Goos.Tests.csproj", "{74C39043-981B-49A8-A56F-2C5FF0199FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goos.XmppSimulator", "Source\Goos.XmppSimulator\Goos.XmppSimulator.csproj", "{8FB2D306-FD16-4E64-BE41-749EA18D4046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC062DB7-0329-4C90-8331-09CF332853D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC062DB7-0329-4C90-8331-09CF332853D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC062DB7-0329-4C90-8331-09CF332853D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC062DB7-0329-4C90-8331-09CF332853D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2139885-7071-441B-89A7-0EE0AD31DD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2139885-7071-441B-89A7-0EE0AD31DD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2139885-7071-441B-89A7-0EE0AD31DD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2139885-7071-441B-89A7-0EE0AD31DD96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C39043-981B-49A8-A56F-2C5FF0199FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C39043-981B-49A8-A56F-2C5FF0199FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C39043-981B-49A8-A56F-2C5FF0199FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C39043-981B-49A8-A56F-2C5FF0199FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB2D306-FD16-4E64-BE41-749EA18D4046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB2D306-FD16-4E64-BE41-749EA18D4046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB2D306-FD16-4E64-BE41-749EA18D4046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB2D306-FD16-4E64-BE41-749EA18D4046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
