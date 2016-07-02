@@ -7,4 +7,4 @@ The article with the description behind it: (link is coming soon)
 
 ## Instructions
 
-To run the application, change the path to the application and to the server [here](link) (`ApplicationPath` and `ServerPath` constants) and run the [end-to-end tests](link).
+To run the application, change the path to the application and to the server [here](Source/Goos.Tests/EndToEnd/Tests.cs) (`ApplicationPath` and `ServerPath` constants) and run the [end-to-end tests](Source/Goos.Tests/EndToEnd/AuctionSniperTests.cs).
