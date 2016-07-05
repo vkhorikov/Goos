@@ -3,7 +3,7 @@ Growing Object-Oriented Software, Guided by Tests Without Mocks
 
 The sample project from the [Growing Object-Oriented Software, Guided by Tests book](http://bit.ly/the-goos-book) rewritten without using mocks.
 
-The article with the description behind it: (link is coming soon)
+The article with the description behind it: [Growing Object-Oriented Software, Guided by Tests Without Mocks](http://enterprisecraftsmanship.com/2016/07/05/growing-object-oriented-software-guided-by-tests-without-mocks/)
 
 ## Instructions
 
